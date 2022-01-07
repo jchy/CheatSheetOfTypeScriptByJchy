@@ -15,7 +15,7 @@
  export default sleep;
  
  ```
-<!-- Following will Give You an error in TypeScript but not in Node Js  -->
+> Following will Give You an error in TypeScript but not in Node Js 
 ```
 
 console.log([1]/4);
