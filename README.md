@@ -74,6 +74,7 @@ tuple[0].substring(1);
 #### NOTE:  fixed length, as type
 ### enum 
 >  red, green, blue
+
 >  0,    1,     2
 
 ```
